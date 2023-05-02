@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\bin\Debug\net6.0\LocationClassLibrary.deps.json
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\bin\Debug\net6.0\LocationClassLibrary.dll
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\bin\Debug\net6.0\LocationClassLibrary.pdb
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\LocationClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\LocationClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\LocationClassLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\LocationClassLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\LocationClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\LocationClassLibrary.dll
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\refint\LocationClassLibrary.dll
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\LocationClassLibrary.pdb
+C:\Users\hp\source\repos\LocationClass\LocationClassLibrary\obj\Debug\net6.0\ref\LocationClassLibrary.dll

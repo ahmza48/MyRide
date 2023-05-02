@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\bin\Debug\net6.0\DriverClassLibrary.deps.json
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\bin\Debug\net6.0\DriverClassLibrary.dll
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\bin\Debug\net6.0\DriverClassLibrary.pdb
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\bin\Debug\net6.0\LocationClassLibrary.dll
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\bin\Debug\net6.0\VehicleClassLibrary.dll
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\bin\Debug\net6.0\LocationClassLibrary.pdb
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\bin\Debug\net6.0\VehicleClassLibrary.pdb
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.csproj.CopyComplete
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.dll
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\refint\DriverClassLibrary.dll
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\DriverClassLibrary.pdb
+C:\Users\hp\source\repos\DriverClass\DriverClassLibrary\obj\Debug\net6.0\ref\DriverClassLibrary.dll

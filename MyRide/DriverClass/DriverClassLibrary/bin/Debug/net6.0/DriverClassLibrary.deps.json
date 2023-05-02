@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DriverClassLibrary/1.0.0": {
+        "dependencies": {
+          "LocationClassLibrary": "1.0.0.0",
+          "VehicleClassLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "DriverClassLibrary.dll": {}
+        }
+      },
+      "LocationClassLibrary/1.0.0.0": {
+        "runtime": {
+          "LocationClassLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VehicleClassLibrary/1.0.0.0": {
+        "runtime": {
+          "VehicleClassLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DriverClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LocationClassLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleClassLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

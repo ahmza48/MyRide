@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\bin\Debug\net6.0\PassengerClassLibrary.deps.json
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\bin\Debug\net6.0\PassengerClassLibrary.dll
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\bin\Debug\net6.0\PassengerClassLibrary.pdb
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\PassengerClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\PassengerClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\PassengerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\PassengerClassLibrary.AssemblyInfo.cs
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\PassengerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\PassengerClassLibrary.dll
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\refint\PassengerClassLibrary.dll
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\PassengerClassLibrary.pdb
+C:\Users\hp\source\repos\PassengerClass\PassengerClassLibrary\obj\Debug\net6.0\ref\PassengerClassLibrary.dll

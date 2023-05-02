@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DriverClassLibrary">
+      <HintPath>..\..\DriverClass\DriverClassLibrary\bin\Debug\net6.0\DriverClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="LocationClassLibrary">
+      <HintPath>..\..\LocationClass\LocationClassLibrary\bin\Debug\net6.0\LocationClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="PassengerClassLibrary">
+      <HintPath>..\..\PassengerClass\PassengerClassLibrary\bin\Debug\net6.0\PassengerClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="VehicleClassLibrary">
+      <HintPath>..\..\VehicleClass\VehicleClassLibrary\bin\Debug\net6.0\VehicleClassLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
